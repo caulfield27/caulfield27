@@ -4,7 +4,7 @@
 
 🏠 Dushanbe, Tajikistan  
 
-<p align="center">
+<p align="start">
   <a href="https://www.codewars.com/users/your_username">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
