@@ -3,7 +3,7 @@
 ### 👨‍💻 Salikhov Alisher
 
 🏠 Dushanbe, Tajikistan  
-📫 [leetcode](https://leetcode.com/u/holden_1337/) • [codewars](https://www.codewars.com/users/h0lden) • [instagram](https://www.instagram.com/salikhov_27) • [linkedin](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B8%D1%88%D0%B5%D1%80-%D1%81%D0%B0%D0%BB%D0%B8%D1%85%D0%BE%D0%B2-34929a367)
+📫[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/h0lden) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/holden_1337/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salikhov_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/алишер-салихов-34929a367)
 
 ---
 ### 🔥 GitHub Stats
